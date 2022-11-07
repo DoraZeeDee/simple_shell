@@ -1,5 +1,5 @@
 ## INTRODUCTION :slightly_smiling_face:
-- A group project form the ALX task 
+- A group project from the ALX task 
 ---
 
 ## AUTHORS: :smirk:
