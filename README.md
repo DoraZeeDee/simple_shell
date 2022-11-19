@@ -2,7 +2,7 @@
 - A group project from the ALX task 
 ---
 
-## AUTHORS: :smirk:
+## AUTHORS :smirk:
 - Dora Ozioma Ekechukwu
 - Godspower Friday
 ---
