@@ -1,4 +1,4 @@
-## INTRODUCTION :slightly_smiling_face:
+## INTRODUCTION :laughing_face:
 - A group project from the ALX task 
 ---
 
